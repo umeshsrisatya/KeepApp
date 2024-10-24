@@ -1,7 +1,5 @@
 # Google Keep Clone
 
-![Google Keep Clone Screenshot](./output.png)
-
 ## 📌 Introduction
 
 This is a **Google Keep** clone application developed using **HTML**, **CSS**, **React JS**, and **JavaScript**. The application allows users to create, update, and delete notes with a simple and intuitive interface, similar to the original Google Keep.
